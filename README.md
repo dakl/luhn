@@ -4,7 +4,7 @@ Calculate Control digit for all possible 4-digit numbers, disallowing certain su
 # Usage
 
 ```bash
-python generateLuhnCompatibleIDs.py
+python luhn.py
 #00018
 #00026
 #00034
