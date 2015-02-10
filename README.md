@@ -23,7 +23,7 @@ The following two-digit substrings are disallowed (and therefore not printed) si
 * `33`, `66`
 * `44`, `77`
 
-The IDs are also available in the file [ALLOWED_IDS.txt]() in this repo for easy access.
+The IDs are also available in the file [ALLOWED_IDS.txt](https://github.com/dakl/luhn/blob/master/ALLOWED_IDS.txt) in this repo for easy access.
 
 # License
 
